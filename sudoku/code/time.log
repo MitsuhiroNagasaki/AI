@@ -1,0 +1,73 @@
+Script started on Mon Nov 26 14:22:29 2018
+[?1034hbash-3.2$ exitpython3 sudoku.py
+Solving Question 0...
+0.23029518127441406
+0.2357800006866455
+bash-3.2$ python3 sudoku.py
+Solving Question 0...
+0.23890089988708496
+0.22606587409973145
+bash-3.2$ python3 sudoku.py
+Solving Question 0...
+0.22407317161560059
+0.22723817825317383
+bash-3.2$ python3 sudoku.py
+Solving Question 0...
+0.2465648651123047
+0.24063611030578613
+bash-3.2$ python3 sudoku.py
+Solving Question 0...
+0.226485013961792
+0.227003812789917
+bash-3.2$ python3 sudoku.py
+Solving Question 0...
+0.2326951026916504
+0.2376570701599121
+bash-3.2$ python3 sudoku.py
+Solving Question 0...
+0.22841906547546387
+0.23397612571716309
+bash-3.2$ python3 sudoku.py
+Solving Question 0...
+0.23088502883911133
+0.23498106002807617
+bash-3.2$ python3 sudoku.py
+Solving Question 0...
+0.23296213150024414
+0.24705791473388672
+bash-3.2$ python3 sudoku.py
+Solving Question 0...
+0.23206782341003418
+0.23445463180541992
+bash-3.2$ python3 sudoku.py
+Solving Question 0...
+0.23933625221252441
+0.2332608699798584
+bash-3.2$ python3 sudoku.py
+Solving Question 0...
+0.23701786994934082
+0.23372817039489746
+bash-3.2$ python3 sudoku.py
+Solving Question 0...
+0.2270510196685791
+0.23449087142944336
+bash-3.2$ python3 sudoku.py
+Solving Question 0...
+0.2369987964630127
+0.24343609809875488
+bash-3.2$ python3 sudoku.py
+Solving Question 0...
+0.22458577156066895
+0.23979711532592773
+bash-3.2$ python3 sudoku.py
+Solving Question 0...
+0.2256321907043457
+0.2259371280670166
+bash-3.2$ python3 sudoku.py
+Solving Question 0...
+0.22791814804077148
+0.24509811401367188
+bash-3.2$ python3 sudoku.py[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kexit
+exit
+
+Script done on Mon Nov 26 14:22:55 2018
